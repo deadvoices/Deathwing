@@ -1,24 +1,25 @@
+# DEATHWING
 Deathwing /ˈDeath wing/  is an Counter-Strike: Global Offensive Internal Cheat, Focuses mainly on Hack vs Hack content!
 
-Features
+## Features
 
 Some cool features:
 Fakewalk
 Backtracking
 ...and much more
 
-How to get it?:
+### How to get it?:
 
 Is an Invite only cheat, visit this discord and you might be lucky: https://discord.gg/up4E4gR
 
-License
+#### License
 
 Visit License file for more information
 
-Credits
+##### Credits
 
 Nexusftw, neezz, deadvoices. Cy@Media Cunt
 
-Screenshots
+###### Screenshots
 
 Adding screenshots in future..
